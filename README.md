@@ -5,7 +5,7 @@ Checking predictions results for all ML models based on Amazon Fine Food Reviews
 
 ##### Data Description:
 
-Taken dataset from kaggle platform (link :https://www.kaggle.com/snap/amazon-fine-food-reviews.
+Taken dataset from kaggle platform (link :https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
 
