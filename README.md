@@ -3,7 +3,7 @@
 
 #### Objective: Given a review we need to classify whether it is positve or negative.(Predicting semantics of the review)
 
-##### Data Description:
+### Data Description:
 
 Taken dataset from kaggle platform (link :https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
@@ -28,7 +28,7 @@ Attribute Information: Columns in the dataset
 9. Summary - brief summary of the review
 10. Text - text of the review
 
-#### Data Preprocessing
+### Data Preprocessing
 Note:
 >These steps are same for every model
 
@@ -60,3 +60,20 @@ we have four major vectorizers to convert text ot vectors
 - Average Word2Vec
 - TF_IDF Word2Vec
 (*You can also find the optimal codes*)
+
+### Models Trained On
+
+I tried on different models to get to know indepth about the model, so these are the list of models I used for trainnig
+**1. K-Nearest Neighbors**
+**2. Naive Bayes**
+**3. Logistic Regression**
+**4. Liner Regression**
+**5. Support Vector Machines**
+**6. Decision Trees**
+**7. GBDT and Random Forests**
+**8. LSTM**
+
+Got pretty good results on all models, but deep learning model(LSTM) had the best accuracy.
+
+
+
