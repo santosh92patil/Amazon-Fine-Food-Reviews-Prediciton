@@ -64,13 +64,21 @@ we have four major vectorizers to convert text ot vectors
 ### Models Trained On
 
 I tried on different models to get to know indepth about the model, so these are the list of models I used for trainnig
+
 **1. K-Nearest Neighbors**
+
 **2. Naive Bayes**
+
 **3. Logistic Regression**
+
 **4. Liner Regression**
+
 **5. Support Vector Machines**
+
 **6. Decision Trees**
+
 **7. GBDT and Random Forests**
+
 **8. LSTM**
 
 Got pretty good results on all models, but deep learning model(LSTM) had the best accuracy.
